@@ -32,3 +32,7 @@ Original sourced assets retained, no longer used in-page: https://pl.restaurantg
 Public customer/listing photos have no established reuse licence. Obtain restaurant-approved originals and confirm content before an official launch. Wordmark is a concept, not a verified official logo. No affiliation or client engagement is claimed.
 
 The closer logo recreation is saved at `public/images/kitsune-emblem-hd.png` (1254 × 1254), with a 512px website asset and 64px favicon. See IMAGE_PROMPT_V2.md for the generation prompt. This version retains the original reference's bright gold and black and uses a slimmer fox shape; it is a recreation rather than an exact trace.
+
+## Current visual palette
+
+Warm black and layered charcoal with saffron yellow accents, soft ivory text, rounded photo frames and editorial serif headings. Exact colors and usage are recorded in [DESIGN_PALETTE.md](./DESIGN_PALETTE.md).
