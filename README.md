@@ -30,3 +30,5 @@ Original sourced assets retained, no longer used in-page: https://pl.restaurantg
 - hero.jpg: sushi crop of feast.jpg.
 
 Public customer/listing photos have no established reuse licence. Obtain restaurant-approved originals and confirm content before an official launch. Wordmark is a concept, not a verified official logo. No affiliation or client engagement is claimed.
+
+The closer logo recreation is saved at `public/images/kitsune-emblem-hd.png` (1254 × 1254), with a 512px website asset and 64px favicon. See IMAGE_PROMPT_V2.md for the generation prompt. This version retains the original reference's bright gold and black and uses a slimmer fox shape; it is a recreation rather than an exact trace.

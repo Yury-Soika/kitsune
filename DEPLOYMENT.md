@@ -20,3 +20,7 @@ Replaced the near-black/full-yellow treatment with warm stone surfaces, a soft c
 Kitsune build and TypeScript checks, hub lint/build and local browser checks passed. All three languages were checked for horizontal overflow at 320/375/768/1440px, alongside language persistence, filters, mobile navigation, FAQ, images, fonts and the hub card.
 
 Published successfully to the existing hub. Live checks confirmed the new stone palette, fox emblem and all browser interactions; all 14 demo routes returned HTTP 200. Previous version backup: `/home/iwbfnzmznr/kitsune-redesign-backup-20261003/application.tar.gz` (hub build/configuration and Kitsune assets). Existing runtime dependencies and other demo assets were preserved.
+
+## Closer logo recreation — 2026-10-03
+
+Regenerated the fox medallion closer to the original user reference, retaining bright gold and black and a slimmer face. Full-resolution 1254 × 1254 PNG retained alongside an optimized 512px website version and versioned 64px favicon. Header logo is now 72px desktop / 56px mobile; footer is 72px desktop / 64px mobile. Narrow-header spacing adjusted to accommodate the larger emblem. The softer site palette remains in place.
