@@ -30,3 +30,5 @@ Published the static preview and refreshed thumbnail. Kitsune build/TypeScript a
 ## Black and yellow palette — 2026-10-03
 
 Replaced the stone theme with warm black (#1D201C), layered charcoal surfaces and saffron yellow (#E9C64B). Yellow highlights actions, selected controls, headings and prices. Retained the enlarged fox logo, serif typography and rounded photography. Contact panel uses charcoal with a restrained gold border. Palette specifications: DESIGN_PALETTE.md. Measured contrast: primary text/background 13.53:1; secondary text on the lightest charcoal surface 6.09:1; button text/yellow 9.10:1.
+
+Published with a refreshed hub card and thumbnail. Kitsune build/TypeScript and hub lint/build passed. Local and live browser checks passed for all languages, 320px through desktop layouts, menu filters, FAQ, mobile navigation, persistence, fonts and images. All 14 checked demo routes returned HTTP 200. Rollback archive: `/home/iwbfnzmznr/kitsune-black-yellow-backup-20261003/application.tar.gz`.
