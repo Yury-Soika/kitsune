@@ -24,3 +24,5 @@ Published successfully to the existing hub. Live checks confirmed the new stone 
 ## Closer logo recreation — 2026-10-03
 
 Regenerated the fox medallion closer to the original user reference, retaining bright gold and black and a slimmer face. Full-resolution 1254 × 1254 PNG retained alongside an optimized 512px website version and versioned 64px favicon. Header logo is now 72px desktop / 56px mobile; footer is 72px desktop / 64px mobile. Narrow-header spacing adjusted to accommodate the larger emblem. The softer site palette remains in place.
+
+Published the static preview and refreshed thumbnail. Kitsune build/TypeScript and local/live browser checks passed, including PL/EN/RU, 320px layout coverage, menu, FAQ, mobile navigation and image loading. Full-resolution logo and favicon downloaded from the live host matched the source files exactly. Backup: `/home/iwbfnzmznr/kitsune-logo-v2-backup-20261003/assets.tar.gz`. Only Kitsune assets and its thumbnail were deployed; the hub runtime was preserved.
