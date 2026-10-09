@@ -2,10 +2,10 @@
 
 Live: https://demo.plexrs.com/kitsune/
 Repository: https://github.com/Yury-Soika/kitsune (master)
-Source checkout: /Users/puma/Documents/projects/plex/kitsune
+Source checkout: /Users/puma/Documents/projects/kitsune
 Hub: /Users/puma/Documents/projects/plex-demo
 
-The existing hub contains a new card, thumbnail, static-export rewrite, generated-file lint exclusion, build-landings entry (`kitsune:plex/kitsune`) and deployment export check. Refresh with `npm run build:landings -- kitsune` from the hub.
+The existing hub contains a new card, thumbnail, static-export rewrite, generated-file lint exclusion, build-landings entry (`kitsune:kitsune`) and deployment export check. Refresh with `npm run build:landings -- kitsune` from the hub.
 
 Validation: Kitsune production export and TypeScript check passed. Hub lint and build passed. Local and live browser checks passed for PL/EN/RU, document language, language persistence, menu categories, FAQ, mobile navigation, image loading, hub card and overflow at 375/390/768/1440px. No JavaScript errors or failed assets observed. All 14 checked existing/new demo routes returned HTTP 200.
 
