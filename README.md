@@ -10,7 +10,7 @@ Hub export: `NEXT_PUBLIC_BASE_PATH=/kitsune npm run build`, then copy `out/` to 
 
 ## Sources
 
-Design reference: https://starter.designinx.com/ — clear headings, concise copy, primary/secondary actions, image/text sections, FAQ and contact hierarchy, adapted to the restaurant.
+PlexRS design standard: clear headings, concise copy, primary/secondary actions, image/text sections, FAQ and contact hierarchy, adapted to the restaurant.
 
 Restaurant data: https://wolt.com/en/pol/bialystok/restaurant/kitsune-biaystok — indexed menu retrieved 2026-10-03. Prices and delivery hours are qualified in the interface. Dine-in opening hours are unverified.
 
